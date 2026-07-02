@@ -1,0 +1,9 @@
+Alice: Good morning everyone. Let's decide the launch date for the new onboarding flow.
+Bob: I think we can ship it next Tuesday if the API changes are done.
+Alice: Great. Bob, can you finish the API changes by Monday?
+Bob: Yes, I'll have the API changes ready by Monday.
+Alice: Decision made then, we launch the onboarding flow next Tuesday.
+Carol: I'll update the documentation and the help center by Wednesday.
+Alice: Perfect. Let's also ask marketing to prepare an announcement.
+Bob: I'll send marketing the details this afternoon.
+Alice: Thanks everyone, that's a wrap.

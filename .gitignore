@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+.env
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Whisper / HF model cache
+.cache/
+
+# demo scratch + generated demo audio (regenerate with make_demo_audio.py)
+examples/_part_*.aiff
+examples/_parts.txt
+examples/demo_meeting.aiff
+examples/demo_meeting.wav
