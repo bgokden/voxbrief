@@ -12,8 +12,7 @@ Desktop / Cursor can use it as a tool.
 
 > This is a clean, self-contained **reference implementation**. A production system
 > (see [From demo to production](#from-demo-to-production-enterprise)) adds diarization,
-> PII redaction, streaming, enterprise LLMs, evaluation, and at-scale deployment — the
-> kind I've built and deployed to 5,000+ users.
+> PII redaction, streaming, enterprise LLMs, evaluation, and at-scale deployment.
 
 ## Pipeline
 
@@ -110,7 +109,7 @@ are never invented and spans/answers stay grounded.
 ## From demo to production (enterprise)
 
 This repo is deliberately the clean core. A production meeting-intelligence system
-(the kind I've shipped) swaps components behind the same interfaces and adds:
+swaps components behind the same interfaces and adds:
 
 - **Speaker diarization** — who said what (WhisperX / pyannote), so action items get
   the *right* owner automatically.
